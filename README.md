@@ -6,4 +6,4 @@
 
 # gimm360-unity-2
 - i added two reverb zones in the first two rooms of the tower in the city scene because that's the only place with a room the player can walk into
-- i added one reverb zone in the alley, next to the red ladder, on the right of the player. i changed it to the city preset and it doesn't sound different.
+- i added one reverb zone in the alley, next to the red ladder, on the right of the player. i changed it to the city preset and it doesn't sound drastic, compared to the room preset.
