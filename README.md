@@ -5,4 +5,4 @@
 - 3D sound triggered when the player shoots a line onto a building in the gameplay scene
 
 # gimm360-unity-2
-- i added two reverb zones in the first two rooms of the tower because that's the only place with a ceiling
+- i added two reverb zones in the first two rooms of the tower in the city scene because that's the only place with a room the player can walk into
